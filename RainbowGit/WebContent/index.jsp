@@ -7,6 +7,6 @@
 <title>애정쓰</title>
 </head>
 <body>
-화내지마아
+바보똥깨 메롱~!
 </body>
 </html>
